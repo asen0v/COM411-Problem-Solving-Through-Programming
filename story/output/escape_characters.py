@@ -7,3 +7,8 @@ print("\" Displays a double quote")
 print("\' Displays a single quote")
 
 
+#Task
+
+print()
+print("\t I am Beep!")
+print()
